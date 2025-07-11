@@ -20,7 +20,6 @@ Peptide-Properties-Project/
 ├── requirements.txt
 ├── tests/
 │   └── test_model.py
-├── README.md
 ```
 
 ## How to Use
